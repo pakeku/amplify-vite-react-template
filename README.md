@@ -1,6 +1,6 @@
-## AWS Amplify React+Vite Starter Template
+## The AWS Amplify Fullstack Typescript Challenge
 
-This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
+This repository was bootstraped using [aws-samples/amplify-vite-react-template](https://github.com/aws-samples/amplify-vite-react-template)
 
 ## Overview
 
